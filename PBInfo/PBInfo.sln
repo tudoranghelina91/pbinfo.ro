@@ -9,6 +9,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "NrMaxim", "..\NrMaxim\NrMax
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CelMaiMareNr", "..\CelMaiMareNr\CelMaiMareNr.vcxproj", "{109636AE-D57B-4476-A658-A19CC5589AD9}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CelMaiMicNr", "..\CelMaiMicNr\CelMaiMicNr.vcxproj", "{6FCD2FE7-FAF8-42AC-9083-3473921B8642}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -41,6 +43,14 @@ Global
 		{109636AE-D57B-4476-A658-A19CC5589AD9}.Release|x64.Build.0 = Release|x64
 		{109636AE-D57B-4476-A658-A19CC5589AD9}.Release|x86.ActiveCfg = Release|Win32
 		{109636AE-D57B-4476-A658-A19CC5589AD9}.Release|x86.Build.0 = Release|Win32
+		{6FCD2FE7-FAF8-42AC-9083-3473921B8642}.Debug|x64.ActiveCfg = Debug|x64
+		{6FCD2FE7-FAF8-42AC-9083-3473921B8642}.Debug|x64.Build.0 = Debug|x64
+		{6FCD2FE7-FAF8-42AC-9083-3473921B8642}.Debug|x86.ActiveCfg = Debug|Win32
+		{6FCD2FE7-FAF8-42AC-9083-3473921B8642}.Debug|x86.Build.0 = Debug|Win32
+		{6FCD2FE7-FAF8-42AC-9083-3473921B8642}.Release|x64.ActiveCfg = Release|x64
+		{6FCD2FE7-FAF8-42AC-9083-3473921B8642}.Release|x64.Build.0 = Release|x64
+		{6FCD2FE7-FAF8-42AC-9083-3473921B8642}.Release|x86.ActiveCfg = Release|Win32
+		{6FCD2FE7-FAF8-42AC-9083-3473921B8642}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
