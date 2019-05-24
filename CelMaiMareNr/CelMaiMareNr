@@ -1,0 +1,9 @@
+Cerinţa
+Să se scrie o funcție C++ care să returneze cel mai mare număr care se poate scrie cu cifrele unui număr natural transmis ca parametru.
+
+Restricţii şi precizări
+numele funcției va fi cmmnr
+funcția va avea un parametru reprezentând numărul care se dă
+numărul care se dă va fi mai mic decât 1.000.000.000
+Important
+Soluţia propusă va conţine doar definiţia funcţiei cerute. Prezenţa în soluţie a altor instrucţiuni poate duce erori de compilare sau de execuţie care vor avea ca efect depunctarea soluţiei.
