@@ -33,6 +33,13 @@ int cmmnr(int n)
 			}
 		}
 
+		if (v[0] == 0)
+		{
+			v[0] += v[1];
+			v[1] = v[0] - v[1];
+			v[0] -= v[1];
+		}
+
 		for (int i = 0; i < vLen; i++)
 		{
 			m = m * 10 + v[i];
