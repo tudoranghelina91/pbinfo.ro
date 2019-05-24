@@ -36,6 +36,12 @@ int nrmaxim(int n)
 		afterRev /= 10;
 	}
 
+	while (n % 10 == 0)
+	{
+		after *= 10;
+		n /= 10;
+	}
+
 	int before = m;
 	int nrBefore = 1;
 
@@ -44,6 +50,7 @@ int nrmaxim(int n)
 		nrBefore *= 10;
 		m /= 10;
 	}
+
 
 	return (after * nrBefore) + before;
 }
